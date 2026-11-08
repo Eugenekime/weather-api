@@ -203,7 +203,3 @@ Weather data is provided by [Open-Meteo](https://open-meteo.com/).
 
 - [Open-Meteo Weather API](https://open-meteo.com/en/docs)
 - [Open-Meteo Geocoding API](https://open-meteo.com/en/docs/geocoding-api)
-
-## License
-
-This project is licensed under the ISC License.
